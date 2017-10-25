@@ -1,0 +1,56 @@
+.App {
+  width: 500px;
+  padding: 12px;
+  display: block;
+  margin: 0 auto;
+  height: auto;
+  background: #333333;
+  color:white;
+}
+
+dl {
+  width: 100%;
+  overflow: hidden;
+  background: #333333;
+  padding: 12px;
+  box-sizing: border-box;
+  border: 1px dotted #ffffff;
+}
+dt {
+  float: left;
+  width: 50%;
+  /* adjust the width; make sure the total of both is 100% */
+  padding: 6px;
+  margin: 0;
+  box-sizing: border-box;
+}
+dd {
+  float: left;
+  width: 50%;
+  padding: 6px;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+input[type=text] {
+  padding:6px;
+  margin:0px;
+  border:2px solid #ccc; 
+  box-sizing: border-box;
+  width:100%;
+}
+
+input[type=text]:focus {
+  border-color:#333;
+
+}
+
+button {
+  padding:6px;
+  margin:0px;
+  background:#ccc; 
+  border:0 none;
+  cursor:pointer;
+  width:100%;
+  box-sizing: border-box;
+}
