@@ -1,16 +1,16 @@
 ## Commands using 'npm'
 
-npm install - install all of the dependencies
-npm start - starts the dev
-npm test - runs tests
-npm run build - builds production version
+* npm install - install all of the dependencies
+* npm start - starts the dev
+* npm test - runs tests
+* npm run build - builds production version
 
 ## Commands using 'yarn'
 
-yarn install - starts the dev
-yarn start - starts the dev
-yarn test - runs tests
-yarn build - builds production version
+* yarn install - starts the dev
+* yarn start - starts the dev
+* yarn test - runs tests
+* yarn build - builds production version
 
 ## To do:
 
